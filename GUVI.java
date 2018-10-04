@@ -7,8 +7,8 @@ class GUVI {
    //System.out.println("enter the number");
    int num=reader.nextInt();
    if (num% 2 == 0)
-   System.out.println("the number is even.");
+   System.out.println(" even.");
    else
-   System.out.println("the number is odd.");
+   System.out.println("odd.");
    }
 }
