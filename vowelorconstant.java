@@ -1,6 +1,6 @@
 class vowelorconstant {
 public static void main(String[] args) {
-char cha = 'f';
+char cha = 'z';
 switch (cha) {
 case 'a':
 case 'e':
