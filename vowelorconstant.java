@@ -1,4 +1,4 @@
-class Main {
+class vowelorconstant {
 public static void main(String[] args) {
 char cha = 'f';
 switch (cha) {
@@ -7,10 +7,10 @@ case 'e':
 case 'i':
 case 'o':
 case 'u':
-System.out.println(cha + " vowel ");
+System.out.println(cha + " Vowel ");
 break;
 default:
-System.out.println(cha + " consonant ");
+System.out.println(cha + " Consonant ");
 }
 }
 }
