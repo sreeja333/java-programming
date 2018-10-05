@@ -1,7 +1,10 @@
-class vowelorconstant {
-public static void main(String[] args) {
+class vowelorconstant 
+{
+public static void main(String[] args)
+{
 char ch = 'f';
-switch (ch) {
+switch (ch)
+{
 case 'a':
 case 'e':
 case 'i':
