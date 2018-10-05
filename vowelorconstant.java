@@ -1,16 +1,16 @@
 class vowelorconstant {
 public static void main(String[] args) {
-char cha = 'z';
-switch (cha) {
+char ch = 'f';
+switch (ch) {
 case 'a':
 case 'e':
 case 'i':
 case 'o':
 case 'u':
-System.out.println(cha + " Vowel ");
+System.out.println(ch + " Vowel ");
 break;
 default:
-System.out.println(cha + " Consonant ");
+System.out.println(ch + " Consonant ");
 }
 }
 }
